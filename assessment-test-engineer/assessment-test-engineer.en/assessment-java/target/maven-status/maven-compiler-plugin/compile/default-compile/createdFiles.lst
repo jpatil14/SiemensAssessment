@@ -1,0 +1,10 @@
+com\mendix\shoppingcart_java\products\Product.class
+com\mendix\shoppingcart_java\customers\Gender.class
+com\mendix\shoppingcart_java\orders\Order$Total.class
+com\mendix\shoppingcart_java\orders\Order.class
+com\mendix\shoppingcart_java\customers\Customer.class
+com\mendix\shoppingcart_java\orders\OrderLine$Discount.class
+com\mendix\shoppingcart_java\orders\OrderLine.class
+com\mendix\shoppingcart_java\customers\Address.class
+com\mendix\shoppingcart_java\customers\Membership.class
+com\mendix\shoppingcart_java\orders\OrderLine$SubTotal.class
